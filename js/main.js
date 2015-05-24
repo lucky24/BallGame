@@ -14,7 +14,7 @@ window.onload = function(){
 		 //"res/bgm.mp3"
 		 //"rse/Hit.mp3"
 		);
-		
+		//this is sample
 	/*************
 	* Initialize *
 	**************/
